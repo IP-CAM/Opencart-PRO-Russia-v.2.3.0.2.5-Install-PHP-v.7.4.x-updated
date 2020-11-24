@@ -1,0 +1,14 @@
+// *	@copyright	OPENCART.PRO 2011 - 2017.
+// *	@forum	http://forum.opencart.pro
+// *	@source See SOURCE.txt for source and other copyright.
+// *	@license GNU General Public License version 3; see LICENSE.txt
+
+OPENCART.PRO  was created under the GNU GPLv3 and includes or is a derivative 
+of works, licensed under the GNU General Public License or other free software 
+Licenses Software or Open Source. OPENCART.PRO uses the following sources:
+
+- OpenCart			(C) 2006-2015 Daniel Kerr, OpenCart Ltd.
+- Arastta 			(C) 2015 Arastta Association.
+- Popular Products	(C) Php Dev Zone
+- Product Extra Tabs	(C) Pushap.Manik
+- X-Shipping	(C) OpencartMart
