@@ -10,4 +10,4 @@ https://forum.opencart.pro/
 
 https://opencart.pro/reliz/
 
-https://opencart.li/image/comparsion-chart_oc_23025.png
+http://www.opencart.li/image/comparsion-chart_oc_23025.png
